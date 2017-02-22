@@ -96,7 +96,7 @@ _Despite the similar scale and distribution of shapes, we see columns of squares
 
 Let's take a look at some examples of Gestalt in action.
 
-##### Law of Similarity
+#### Law of Similarity
 
 By using consistent size, spacing, and alignment, we see this group of icons as a complete set of options to choose from rather than unrelated elements.
 
