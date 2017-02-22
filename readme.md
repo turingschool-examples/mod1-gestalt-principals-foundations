@@ -110,7 +110,7 @@ This examples shows several levels of enclosure, which all help to clarify and s
 
 #### Law of Continuation or Continuity
 
-The dotted line that shows us walking route to a destination is understood to be a continuous line leading us somewhere, rather than a simple assortment of circles.
+The dotted line that shows us the walking route to a destination is understood to be a continuous line leading us somewhere, rather than a simple assortment of circles.
 
 ![Law of Continuation](images/real-gestalt-example-3.png)
 
