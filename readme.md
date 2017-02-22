@@ -53,7 +53,7 @@ Contours and gaps in a figure will be seen as completed contours
 
 ![Law of Closure](images/gestalt-example-1.png)
 
-![WWF Logo](images/wwf_logo_panda.svg)
+![WWF Logo](images/wwf_logo_panda.png)
 
 ###### *Image Credit: [Word Wildlife Fund](http://wwf.panda.org/)*
 
