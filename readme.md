@@ -130,20 +130,10 @@ We can see that the avatar, user name, and display name are grouped closely toge
 ![Law of  Proximity](images/real-gestalt-example-5.png)
 
 
-<!-- ***
 
-> #### *"Sometimes I get emotional over fonts"* - Kanye West
+## Your Turn
 
-***
+In small groups, find the following:
 
-
-
-
-
-## Homework Reading
-
-* [Accessibility: Improving The UX For Color-Blind Users](https://www.smashingmagazine.com/2016/06/improving-ux-for-color-blind-users/)
-
-## Resources
-
-* [HTML Color Picker](http://htmlcolorcodes.com/color-picker/) -->
+* 2-3 examples of these Gestalt Principals being used in digital products of websites that you use regularly. Which laws are being applied? How do these principals make understanding the information easier?
+* an example where using Gestalt Principals would add clarity and legibility. Which law would you use? How would it make the content more organized and understandable?
