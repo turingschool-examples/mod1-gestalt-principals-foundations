@@ -37,7 +37,7 @@ _Rubin's Vase is an example of ambiguous figure/ground_
 
 #### Law of Simplicity
 
-Items will be organized into as "good" (symmetrical, simple, smooth, and regular) as possible.
+Items will be organized as "good" (symmetrical, simple, smooth, and regular) as possible.
 
 ![Law of Simplicity](images/gestalt-example-6.png)
 
