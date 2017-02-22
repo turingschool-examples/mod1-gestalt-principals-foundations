@@ -21,6 +21,10 @@ Gestalt Psychology is a concept that is used to describe how we perceive the wor
 
 Gestalt suggests that the whole is, in fact, different (and greater) that the individual parts that make it up. Based on this belief, a set of laws were written to explain out perceptual organization and how people group smaller objects together to form larger, more significant objects. While it is important to note that these laws do not result in good design by themselves, they are extremely useful to leverage when identifying and solving problems we face when designing highly usable and clear interfaces.
 
+### Gestalt Principals
+
+The Gestalt psychologists developed a set of "laws", or principals, to explain perceptual organization, the way smaller objects are organized and grouped to form larger, complete objects. These principals can be thought of as mental shortcuts for visual problem solving.
+
 #### Law of Figure-Ground
 
 A figure shall be perceived as separate from it's background.
@@ -46,6 +50,13 @@ Elements next to each other tend to be grouped together.
 ![Law of Proximity](images/gestalt-example-3.png)
 
 _Even though this is made up of unrelated elements, we see a column on the left, a square to the upper right, and a short row on the lower right_
+
+#### Law of Enclosure
+
+Related items grouped together with a visual element will be perceived as one complete element.
+
+![Law of Enclosure](images/gestalt-example-7.png)
+
 
 #### Law of Continuation or Continuity
 
@@ -75,6 +86,48 @@ Elements that look similar will be perceived as part of the same form
 ![Law of Similarity](images/gestalt-example-2.png)
 
 _Despite the similar scale and distribution of shapes, we see columns of squares and circles_
+
+
+![WWF Logo](images/wwf_logo_panda.png)
+
+###### *Image Credit: [Word Wildlife Fund](http://wwf.panda.org/)*
+
+### Gestalt Principals in Digital Products
+
+Let's take a look at some examples of Gestalt in action.
+
+##### Law of Similarity
+
+By using consistent size, spacing, and alignment, we see this group of icons as a complete set of options to choose from rather than unrelated elements.
+
+![Law of Similarity](images/real-gestalt-example-1.png)
+
+###### *Image Credit: [Carolann Bonner - Thoughtbot](https://robots.thoughtbot.com/gestalt-principles)*
+
+#### Law of Enclosure
+
+This examples shows several levels of enclosure, which all help to clarify and streamline how we read and understand this content.
+
+![Law of Enclosure](images/real-gestalt-example-2.png)
+
+###### *Image Credit: [Carolann Bonner - Thoughtbot](https://robots.thoughtbot.com/gestalt-principles)*
+
+
+#### Law of Continuation or Continuity
+
+The dotted line that shows us walking route to a destination is understood to be a continuous line leading us somewhere, rather than a simple assortment of circles.
+
+![Law of Continuation](images/real-gestalt-example-3.png)
+
+Another example of this is the status bar of a media player. The accent color is perceived to represent how far the track has progressed, and the neutral color is seen as the amount of time left on the track.
+
+![Law of Continuation](images/real-gestalt-example-4.png)
+
+#### Law of Proximity
+
+We can see that the avatar, user name, and display name are grouped closely together. This helps us read this information as a group of related and connected objects. It also separates the user details from the secondary information that described number of tweets and followers.
+
+![Law of  Proximity](images/real-gestalt-example-5.png)
 
 
 <!-- ***
