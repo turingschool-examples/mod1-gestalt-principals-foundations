@@ -130,5 +130,5 @@ We can see that the avatar, user name, and display name are grouped closely toge
 
 In small groups, find the following:
 
-* 2-3 examples of these Gestalt Principals being used in digital products of websites that you use regularly. Which laws are being applied? How do these principals make understanding the information easier?
-* an example where using Gestalt Principals would add clarity and legibility. Which law would you use? How would it make the content more organized and understandable?
+* 2-3 examples of these Gestalt Principals being used in digital products or websites that you use regularly. Which laws are being applied? How do these principals make understanding the information easier?
+* 1-2 examples where using Gestalt Principals would add clarity and legibility. Which law would you use? How would it make the content more organized and understandable?
