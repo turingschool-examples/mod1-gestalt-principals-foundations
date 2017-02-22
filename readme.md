@@ -13,17 +13,17 @@ In this lesson we'll talk about:
 
 ### What is Gestalt Psychology
 
-Gestalt Psychology is a concept that is used to describe how we perceive the world around us as complete units an patterns rather than a series of unrelated parts. "Gestalt" means "shape" or "form", which is fitting since the principals it outlines describe the ways in which humans are hard-wired to apply structure and meaning to clearly and quickly understand their surroundings. Developed in the early 20th century by Kurt Koffka, Max Wertheimer and Wolfgang Köhler, Gestalt was their approach to explaining that people's perceptions are a primal function that allows them to see unrelated objects as a whole, or global, construction within an environment.
+Gestalt Psychology is a concept that is used to describe how we perceive the world around us as complete units and patterns rather than a series of unrelated parts. "Gestalt" means "shape" or "form", which is fitting since the principals it outlines describe the ways in which humans are hard-wired to apply structure and meaning to quickly understand their surroundings. Developed in the early 20th century by Kurt Koffka, Max Wertheimer and Wolfgang Köhler, Gestalt was their approach to explaining how people's perceptions are a primal function that allows them to see unrelated objects as a whole, or global, construction within an environment.
 
 ### The Whole is Greater than the Sum of its Parts
 
 ![The Whole is Greater than its Parts](images/gestalt-example-5.png)
 
-Gestalt suggests that the whole is, in fact, different (and greater) that the individual parts that make it up. Based on this belief, a set of laws were written to explain out perceptual organization and how people group smaller objects together to form larger, more significant objects. While it is important to note that these laws do not result in good design by themselves, they are extremely useful to leverage when identifying and solving problems we face when designing highly usable and clear interfaces.
+Gestalt suggests that the whole is, in fact, different (and greater) that the individual parts that make it up. Based on this belief, a set of "laws" were written to explain our perceptual organization and how smaller objects group together to form larger, more significant objects. While it is important to note that these laws do not result in good design by themselves, they are extremely useful to leverage when identifying and solving problems we face when designing highly usable and clear interfaces.
 
 ### Gestalt Principals
 
-The Gestalt psychologists developed a set of "laws", or principals, to explain perceptual organization, the way smaller objects are organized and grouped to form larger, complete objects. These principals can be thought of as mental shortcuts for visual problem solving.
+The Gestalt psychologists developed these laws, or principals, to explain perceptual organization, the way smaller objects are organized and grouped to form larger, complete objects. These principals can be thought of as mental shortcuts for visual problem solving.
 
 #### Law of Figure-Ground
 
