@@ -17,7 +17,7 @@ Gestalt Psychology is a concept used to describe how we perceive the world aroun
 
 ### The Whole is Greater than the Sum of its Parts
 
-![The Whole is Greater than its Parts](images/gestalt-example-5.png)
+![The Whole is Greater than its Parts](images/gestalt-example-5-2.png)
 
 Gestalt suggests that the whole is, in fact, different (and greater) that the individual parts that make it up. Based on this belief, a set of "laws" were written to explain our perceptual organization and how smaller objects group together to form larger, more significant objects. While it is important to note that these laws do not result in good design by themselves, they are extremely useful to leverage when identifying and solving the problems we face when designing highly usable and clear interfaces for users.
 
