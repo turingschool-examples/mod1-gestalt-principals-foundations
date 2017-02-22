@@ -13,7 +13,7 @@ In this lesson we'll talk about:
 
 ### What is Gestalt Psychology
 
-Gestalt Psychology is a concept used to describe how we perceive the world around us as complete units and patterns rather than a series of unrelated parts. "Gestalt" means "shape" or "form", which is fitting as these principals describe the ways in which humans are hard-wired to see patterns and apply structures to quickly understand their surroundings. Developed in the early 20th century by Kurt Koffka, Max Wertheimer, and Wolfgang Köhler, Gestalt was their approach to explaining how people's perceptions are a primal function that allows them to see unrelated objects as a whole, or global, construction within an environment.
+Gestalt Psychology is a concept used to describe how we perceive the world around us as complete units and patterns rather than a series of unrelated parts. "Gestalt" means "shape" or "form", which is fitting as these principals describe the ways in which humans are hard-wired to see patterns and apply structures to quickly understand their surroundings. Developed in the early 20th century byMax Wertheimer with Kurt Koffka, and Wolfgang Köhler, Gestalt was their approach to explaining how people's perceptions are a primal function that allows them to see unrelated objects as a whole, or global, construction within an environment.
 
 ### The Whole is Greater than the Sum of its Parts
 
