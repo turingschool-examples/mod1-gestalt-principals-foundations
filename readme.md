@@ -87,11 +87,6 @@ Elements that look similar will be perceived as part of the same form
 
 _Despite the similar scale and distribution of shapes, we see columns of squares and circles_
 
-
-![WWF Logo](images/wwf_logo_panda.png)
-
-###### *Image Credit: [Word Wildlife Fund](http://wwf.panda.org/)*
-
 ### Gestalt Principals in Digital Products
 
 Let's take a look at some examples of Gestalt in action.
