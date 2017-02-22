@@ -29,11 +29,15 @@ Figure is _positive space_ (or the object itself, like a tree) and Ground is the
 
 ![Rubin's Face Vase](images/rubin-face-vase.png)
 
+_Rubin's Vase is an example of ambiguous figure/ground_
+
 #### Law of Simplicity
 
 Items will be organized into as "good" (symmetrical, simple, smooth, and regular) as possible.
 
 ![Law of Simplicity](images/gestalt-example-6.png)
+
+_This appears to be two overlapping circles, not a combination of two crescents_
 
 #### Law of Proximity
 
@@ -41,17 +45,24 @@ Elements next to each other tend to be grouped together.
 
 ![Law of Proximity](images/gestalt-example-3.png)
 
+_Even though this is made up of unrelated elements, we see a column on the left, a square to the upper right, and a short row on the lower right_
+
 #### Law of Continuation or Continuity
 
 Objects aligned on a path are viewed as moving in an implied direction. We continue to follow contours when the elements have established a pattern of direction.
 
 ![Law of Continuation](images/gestalt-example-4.png)
 
+_The eye follows the full path implied by each line to see a complete circle_
+
 #### Law of Closure
 
 Contours and gaps in a figure will be seen as completed contours
 
 ![Law of Closure](images/gestalt-example-1.png)
+
+_There are no triangles or circles in this visual, but we are able to fill the missing space to complete these familiar shapes_
+
 
 ![WWF Logo](images/wwf_logo_panda.png)
 
@@ -63,6 +74,8 @@ Elements that look similar will be perceived as part of the same form
 
 ![Law of Similarity](images/gestalt-example-2.png)
 
+_Despite the similar scale and distribution of shapes, we see columns of squares and circles_
+
 
 <!-- ***
 
@@ -71,10 +84,6 @@ Elements that look similar will be perceived as part of the same form
 ***
 
 
-
-![tertiary colors](images/tertiary.jpg)
-
-###### *Image Credit: Site Point [Color Theory 101](https://www.sitepoint.com/color-theory-101-2/)*
 
 
 
